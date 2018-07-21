@@ -1,0 +1,11 @@
+#Battleships {
+  border-collapse: collapse;
+  margin: 30px auto;
+}
+
+td {
+  border: 1px solid #000;
+  min-width: 20px;
+  height: 20px;
+  text-align: center;
+}
